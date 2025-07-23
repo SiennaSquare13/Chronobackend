@@ -1,0 +1,45 @@
+============================================================
+CHRONO AI ASSIGNMENT GRADER - DEMO RESULTS
+============================================================
+Generated: 2025-07-23 00:55:43
+Total Questions: 4
+Overall Score: 2.5/4 (62.5%)
+============================================================
+NOTE: This is a DEMO version with limited grading capabilities.
+For full AI-powered grading, use the main chrono_grader.py with OpenAI API.
+============================================================
+
+Q1: Whatis15+23?
+Student Answer: 38
+Status: Correct
+Explanation: Correct calculation and answer.
+Feedback: Well done! Your answer is correct.
+Points: 1.0/1.0
+----------------------------------------
+
+Q2: Solveforx:2x+5=13
+Student Answer: x=4
+Status: Correct
+Explanation: Correct calculation and answer.
+Feedback: Well done! Your answer is correct.
+Points: 1.0/1.0
+----------------------------------------
+
+Q3: Whatistheareaofacirclewithradius_5?
+Student Answer: A=T1x5?=2511=78.54
+Status: Demo Mode - Manual Review Needed
+Correct Answer: Unable to determine in demo mode
+Explanation: This question type requires AI grading for accurate assessment.
+Feedback: Demo version: Please use full AI grading for complex questions.
+Points: 0.5/1.0
+----------------------------------------
+
+Q4: Whatis7x8?
+Student Answer: 54
+Status: Incorrect
+Correct Answer: 56
+Explanation: The correct answer is 56. Your answer was 54.
+Feedback: Review your calculation. Check each step carefully.
+Points: 0.0/1.0
+----------------------------------------
+
